@@ -18,3 +18,14 @@ table {
     padding: 5px;
 
 }
+
+th, td {
+    border: solid 1px black;
+    padding: 5px;
+
+}
+
+#songresults {
+    background: aquamarine;
+    border: solid 3px black;
+}

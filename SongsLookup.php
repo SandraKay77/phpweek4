@@ -22,8 +22,8 @@
 <div id="searchform">
     <h4>Song Search Filter</h4>
     <h4>Search By:</h4>
+<form action="songresults.php" method="get">
     <table>
-
             <tr>
         <td><label for="title">Title:</label></td>
         <td><input type="text" id="title" name="title"></td>
@@ -56,6 +56,7 @@
             </tr>
     </table>
     <br>
+</form>
 </div>
 
 </body>
